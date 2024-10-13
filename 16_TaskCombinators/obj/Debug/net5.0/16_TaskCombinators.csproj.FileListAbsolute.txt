@@ -1,0 +1,15 @@
+C:\Users\Ghada\source\repos\MuliThreading\16_TaskCombinators\bin\Debug\net5.0\16_TaskCombinators.exe
+C:\Users\Ghada\source\repos\MuliThreading\16_TaskCombinators\bin\Debug\net5.0\16_TaskCombinators.deps.json
+C:\Users\Ghada\source\repos\MuliThreading\16_TaskCombinators\bin\Debug\net5.0\16_TaskCombinators.runtimeconfig.json
+C:\Users\Ghada\source\repos\MuliThreading\16_TaskCombinators\bin\Debug\net5.0\16_TaskCombinators.runtimeconfig.dev.json
+C:\Users\Ghada\source\repos\MuliThreading\16_TaskCombinators\bin\Debug\net5.0\16_TaskCombinators.dll
+C:\Users\Ghada\source\repos\MuliThreading\16_TaskCombinators\bin\Debug\net5.0\ref\16_TaskCombinators.dll
+C:\Users\Ghada\source\repos\MuliThreading\16_TaskCombinators\bin\Debug\net5.0\16_TaskCombinators.pdb
+C:\Users\Ghada\source\repos\MuliThreading\16_TaskCombinators\obj\Debug\net5.0\16_TaskCombinators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghada\source\repos\MuliThreading\16_TaskCombinators\obj\Debug\net5.0\16_TaskCombinators.AssemblyInfoInputs.cache
+C:\Users\Ghada\source\repos\MuliThreading\16_TaskCombinators\obj\Debug\net5.0\16_TaskCombinators.AssemblyInfo.cs
+C:\Users\Ghada\source\repos\MuliThreading\16_TaskCombinators\obj\Debug\net5.0\16_TaskCombinators.csproj.CoreCompileInputs.cache
+C:\Users\Ghada\source\repos\MuliThreading\16_TaskCombinators\obj\Debug\net5.0\16_TaskCombinators.dll
+C:\Users\Ghada\source\repos\MuliThreading\16_TaskCombinators\obj\Debug\net5.0\ref\16_TaskCombinators.dll
+C:\Users\Ghada\source\repos\MuliThreading\16_TaskCombinators\obj\Debug\net5.0\16_TaskCombinators.pdb
+C:\Users\Ghada\source\repos\MuliThreading\16_TaskCombinators\obj\Debug\net5.0\16_TaskCombinators.genruntimeconfig.cache

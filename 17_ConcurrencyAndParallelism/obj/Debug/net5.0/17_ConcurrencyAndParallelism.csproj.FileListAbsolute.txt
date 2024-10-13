@@ -1,0 +1,16 @@
+C:\Users\Ghada\source\repos\MuliThreading\17_ConcurrencyAndParallelism\bin\Debug\net5.0\17_ConcurrencyAndParallelism.exe
+C:\Users\Ghada\source\repos\MuliThreading\17_ConcurrencyAndParallelism\bin\Debug\net5.0\17_ConcurrencyAndParallelism.deps.json
+C:\Users\Ghada\source\repos\MuliThreading\17_ConcurrencyAndParallelism\bin\Debug\net5.0\17_ConcurrencyAndParallelism.runtimeconfig.json
+C:\Users\Ghada\source\repos\MuliThreading\17_ConcurrencyAndParallelism\bin\Debug\net5.0\17_ConcurrencyAndParallelism.runtimeconfig.dev.json
+C:\Users\Ghada\source\repos\MuliThreading\17_ConcurrencyAndParallelism\bin\Debug\net5.0\17_ConcurrencyAndParallelism.dll
+C:\Users\Ghada\source\repos\MuliThreading\17_ConcurrencyAndParallelism\bin\Debug\net5.0\ref\17_ConcurrencyAndParallelism.dll
+C:\Users\Ghada\source\repos\MuliThreading\17_ConcurrencyAndParallelism\bin\Debug\net5.0\17_ConcurrencyAndParallelism.pdb
+C:\Users\Ghada\source\repos\MuliThreading\17_ConcurrencyAndParallelism\obj\Debug\net5.0\17_ConcurrencyAndParallelism.csproj.AssemblyReference.cache
+C:\Users\Ghada\source\repos\MuliThreading\17_ConcurrencyAndParallelism\obj\Debug\net5.0\17_ConcurrencyAndParallelism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghada\source\repos\MuliThreading\17_ConcurrencyAndParallelism\obj\Debug\net5.0\17_ConcurrencyAndParallelism.AssemblyInfoInputs.cache
+C:\Users\Ghada\source\repos\MuliThreading\17_ConcurrencyAndParallelism\obj\Debug\net5.0\17_ConcurrencyAndParallelism.AssemblyInfo.cs
+C:\Users\Ghada\source\repos\MuliThreading\17_ConcurrencyAndParallelism\obj\Debug\net5.0\17_ConcurrencyAndParallelism.csproj.CoreCompileInputs.cache
+C:\Users\Ghada\source\repos\MuliThreading\17_ConcurrencyAndParallelism\obj\Debug\net5.0\17_ConcurrencyAndParallelism.dll
+C:\Users\Ghada\source\repos\MuliThreading\17_ConcurrencyAndParallelism\obj\Debug\net5.0\ref\17_ConcurrencyAndParallelism.dll
+C:\Users\Ghada\source\repos\MuliThreading\17_ConcurrencyAndParallelism\obj\Debug\net5.0\17_ConcurrencyAndParallelism.pdb
+C:\Users\Ghada\source\repos\MuliThreading\17_ConcurrencyAndParallelism\obj\Debug\net5.0\17_ConcurrencyAndParallelism.genruntimeconfig.cache

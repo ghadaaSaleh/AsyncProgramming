@@ -1,0 +1,15 @@
+C:\Users\Ghada\source\repos\MuliThreading\7_TaskReturnsValue\bin\Debug\net5.0\7_TaskReturnsValue.exe
+C:\Users\Ghada\source\repos\MuliThreading\7_TaskReturnsValue\bin\Debug\net5.0\7_TaskReturnsValue.deps.json
+C:\Users\Ghada\source\repos\MuliThreading\7_TaskReturnsValue\bin\Debug\net5.0\7_TaskReturnsValue.runtimeconfig.json
+C:\Users\Ghada\source\repos\MuliThreading\7_TaskReturnsValue\bin\Debug\net5.0\7_TaskReturnsValue.runtimeconfig.dev.json
+C:\Users\Ghada\source\repos\MuliThreading\7_TaskReturnsValue\bin\Debug\net5.0\7_TaskReturnsValue.dll
+C:\Users\Ghada\source\repos\MuliThreading\7_TaskReturnsValue\bin\Debug\net5.0\ref\7_TaskReturnsValue.dll
+C:\Users\Ghada\source\repos\MuliThreading\7_TaskReturnsValue\bin\Debug\net5.0\7_TaskReturnsValue.pdb
+C:\Users\Ghada\source\repos\MuliThreading\7_TaskReturnsValue\obj\Debug\net5.0\7_TaskReturnsValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghada\source\repos\MuliThreading\7_TaskReturnsValue\obj\Debug\net5.0\7_TaskReturnsValue.AssemblyInfoInputs.cache
+C:\Users\Ghada\source\repos\MuliThreading\7_TaskReturnsValue\obj\Debug\net5.0\7_TaskReturnsValue.AssemblyInfo.cs
+C:\Users\Ghada\source\repos\MuliThreading\7_TaskReturnsValue\obj\Debug\net5.0\7_TaskReturnsValue.csproj.CoreCompileInputs.cache
+C:\Users\Ghada\source\repos\MuliThreading\7_TaskReturnsValue\obj\Debug\net5.0\7_TaskReturnsValue.dll
+C:\Users\Ghada\source\repos\MuliThreading\7_TaskReturnsValue\obj\Debug\net5.0\ref\7_TaskReturnsValue.dll
+C:\Users\Ghada\source\repos\MuliThreading\7_TaskReturnsValue\obj\Debug\net5.0\7_TaskReturnsValue.pdb
+C:\Users\Ghada\source\repos\MuliThreading\7_TaskReturnsValue\obj\Debug\net5.0\7_TaskReturnsValue.genruntimeconfig.cache

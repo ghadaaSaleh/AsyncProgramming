@@ -1,0 +1,15 @@
+C:\Users\Ghada\source\repos\MuliThreading\11_TaskDelay\bin\Debug\net5.0\11_TaskDelay.exe
+C:\Users\Ghada\source\repos\MuliThreading\11_TaskDelay\bin\Debug\net5.0\11_TaskDelay.deps.json
+C:\Users\Ghada\source\repos\MuliThreading\11_TaskDelay\bin\Debug\net5.0\11_TaskDelay.runtimeconfig.json
+C:\Users\Ghada\source\repos\MuliThreading\11_TaskDelay\bin\Debug\net5.0\11_TaskDelay.runtimeconfig.dev.json
+C:\Users\Ghada\source\repos\MuliThreading\11_TaskDelay\bin\Debug\net5.0\11_TaskDelay.dll
+C:\Users\Ghada\source\repos\MuliThreading\11_TaskDelay\bin\Debug\net5.0\ref\11_TaskDelay.dll
+C:\Users\Ghada\source\repos\MuliThreading\11_TaskDelay\bin\Debug\net5.0\11_TaskDelay.pdb
+C:\Users\Ghada\source\repos\MuliThreading\11_TaskDelay\obj\Debug\net5.0\11_TaskDelay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghada\source\repos\MuliThreading\11_TaskDelay\obj\Debug\net5.0\11_TaskDelay.AssemblyInfoInputs.cache
+C:\Users\Ghada\source\repos\MuliThreading\11_TaskDelay\obj\Debug\net5.0\11_TaskDelay.AssemblyInfo.cs
+C:\Users\Ghada\source\repos\MuliThreading\11_TaskDelay\obj\Debug\net5.0\11_TaskDelay.csproj.CoreCompileInputs.cache
+C:\Users\Ghada\source\repos\MuliThreading\11_TaskDelay\obj\Debug\net5.0\11_TaskDelay.dll
+C:\Users\Ghada\source\repos\MuliThreading\11_TaskDelay\obj\Debug\net5.0\ref\11_TaskDelay.dll
+C:\Users\Ghada\source\repos\MuliThreading\11_TaskDelay\obj\Debug\net5.0\11_TaskDelay.pdb
+C:\Users\Ghada\source\repos\MuliThreading\11_TaskDelay\obj\Debug\net5.0\11_TaskDelay.genruntimeconfig.cache

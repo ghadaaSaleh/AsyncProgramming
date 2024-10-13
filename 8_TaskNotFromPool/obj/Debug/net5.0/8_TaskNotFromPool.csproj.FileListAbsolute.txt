@@ -1,0 +1,15 @@
+C:\Users\Ghada\source\repos\MuliThreading\8_TaskNotFromPool\bin\Debug\net5.0\8_TaskNotFromPool.exe
+C:\Users\Ghada\source\repos\MuliThreading\8_TaskNotFromPool\bin\Debug\net5.0\8_TaskNotFromPool.deps.json
+C:\Users\Ghada\source\repos\MuliThreading\8_TaskNotFromPool\bin\Debug\net5.0\8_TaskNotFromPool.runtimeconfig.json
+C:\Users\Ghada\source\repos\MuliThreading\8_TaskNotFromPool\bin\Debug\net5.0\8_TaskNotFromPool.runtimeconfig.dev.json
+C:\Users\Ghada\source\repos\MuliThreading\8_TaskNotFromPool\bin\Debug\net5.0\8_TaskNotFromPool.dll
+C:\Users\Ghada\source\repos\MuliThreading\8_TaskNotFromPool\bin\Debug\net5.0\ref\8_TaskNotFromPool.dll
+C:\Users\Ghada\source\repos\MuliThreading\8_TaskNotFromPool\bin\Debug\net5.0\8_TaskNotFromPool.pdb
+C:\Users\Ghada\source\repos\MuliThreading\8_TaskNotFromPool\obj\Debug\net5.0\8_TaskNotFromPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghada\source\repos\MuliThreading\8_TaskNotFromPool\obj\Debug\net5.0\8_TaskNotFromPool.AssemblyInfoInputs.cache
+C:\Users\Ghada\source\repos\MuliThreading\8_TaskNotFromPool\obj\Debug\net5.0\8_TaskNotFromPool.AssemblyInfo.cs
+C:\Users\Ghada\source\repos\MuliThreading\8_TaskNotFromPool\obj\Debug\net5.0\8_TaskNotFromPool.csproj.CoreCompileInputs.cache
+C:\Users\Ghada\source\repos\MuliThreading\8_TaskNotFromPool\obj\Debug\net5.0\8_TaskNotFromPool.dll
+C:\Users\Ghada\source\repos\MuliThreading\8_TaskNotFromPool\obj\Debug\net5.0\ref\8_TaskNotFromPool.dll
+C:\Users\Ghada\source\repos\MuliThreading\8_TaskNotFromPool\obj\Debug\net5.0\8_TaskNotFromPool.pdb
+C:\Users\Ghada\source\repos\MuliThreading\8_TaskNotFromPool\obj\Debug\net5.0\8_TaskNotFromPool.genruntimeconfig.cache

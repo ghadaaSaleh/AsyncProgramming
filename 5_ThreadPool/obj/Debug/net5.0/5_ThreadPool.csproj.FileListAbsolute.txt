@@ -1,0 +1,16 @@
+C:\Users\Ghada\source\repos\MuliThreading\5_ThreadPool\bin\Debug\net5.0\5_ThreadPool.exe
+C:\Users\Ghada\source\repos\MuliThreading\5_ThreadPool\bin\Debug\net5.0\5_ThreadPool.deps.json
+C:\Users\Ghada\source\repos\MuliThreading\5_ThreadPool\bin\Debug\net5.0\5_ThreadPool.runtimeconfig.json
+C:\Users\Ghada\source\repos\MuliThreading\5_ThreadPool\bin\Debug\net5.0\5_ThreadPool.runtimeconfig.dev.json
+C:\Users\Ghada\source\repos\MuliThreading\5_ThreadPool\bin\Debug\net5.0\5_ThreadPool.dll
+C:\Users\Ghada\source\repos\MuliThreading\5_ThreadPool\bin\Debug\net5.0\ref\5_ThreadPool.dll
+C:\Users\Ghada\source\repos\MuliThreading\5_ThreadPool\bin\Debug\net5.0\5_ThreadPool.pdb
+C:\Users\Ghada\source\repos\MuliThreading\5_ThreadPool\obj\Debug\net5.0\5_ThreadPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghada\source\repos\MuliThreading\5_ThreadPool\obj\Debug\net5.0\5_ThreadPool.AssemblyInfoInputs.cache
+C:\Users\Ghada\source\repos\MuliThreading\5_ThreadPool\obj\Debug\net5.0\5_ThreadPool.AssemblyInfo.cs
+C:\Users\Ghada\source\repos\MuliThreading\5_ThreadPool\obj\Debug\net5.0\5_ThreadPool.csproj.CoreCompileInputs.cache
+C:\Users\Ghada\source\repos\MuliThreading\5_ThreadPool\obj\Debug\net5.0\5_ThreadPool.dll
+C:\Users\Ghada\source\repos\MuliThreading\5_ThreadPool\obj\Debug\net5.0\ref\5_ThreadPool.dll
+C:\Users\Ghada\source\repos\MuliThreading\5_ThreadPool\obj\Debug\net5.0\5_ThreadPool.pdb
+C:\Users\Ghada\source\repos\MuliThreading\5_ThreadPool\obj\Debug\net5.0\5_ThreadPool.genruntimeconfig.cache
+C:\Users\Ghada\source\repos\MuliThreading\5_ThreadPool\obj\Debug\net5.0\5_ThreadPool.csproj.AssemblyReference.cache

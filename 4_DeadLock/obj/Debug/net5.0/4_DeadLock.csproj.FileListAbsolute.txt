@@ -1,0 +1,16 @@
+C:\Users\Ghada\source\repos\MuliThreading\4_DeadLock\bin\Debug\net5.0\4_DeadLock.exe
+C:\Users\Ghada\source\repos\MuliThreading\4_DeadLock\bin\Debug\net5.0\4_DeadLock.deps.json
+C:\Users\Ghada\source\repos\MuliThreading\4_DeadLock\bin\Debug\net5.0\4_DeadLock.runtimeconfig.json
+C:\Users\Ghada\source\repos\MuliThreading\4_DeadLock\bin\Debug\net5.0\4_DeadLock.runtimeconfig.dev.json
+C:\Users\Ghada\source\repos\MuliThreading\4_DeadLock\bin\Debug\net5.0\4_DeadLock.dll
+C:\Users\Ghada\source\repos\MuliThreading\4_DeadLock\bin\Debug\net5.0\ref\4_DeadLock.dll
+C:\Users\Ghada\source\repos\MuliThreading\4_DeadLock\bin\Debug\net5.0\4_DeadLock.pdb
+C:\Users\Ghada\source\repos\MuliThreading\4_DeadLock\obj\Debug\net5.0\4_DeadLock.csproj.AssemblyReference.cache
+C:\Users\Ghada\source\repos\MuliThreading\4_DeadLock\obj\Debug\net5.0\4_DeadLock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghada\source\repos\MuliThreading\4_DeadLock\obj\Debug\net5.0\4_DeadLock.AssemblyInfoInputs.cache
+C:\Users\Ghada\source\repos\MuliThreading\4_DeadLock\obj\Debug\net5.0\4_DeadLock.AssemblyInfo.cs
+C:\Users\Ghada\source\repos\MuliThreading\4_DeadLock\obj\Debug\net5.0\4_DeadLock.csproj.CoreCompileInputs.cache
+C:\Users\Ghada\source\repos\MuliThreading\4_DeadLock\obj\Debug\net5.0\4_DeadLock.dll
+C:\Users\Ghada\source\repos\MuliThreading\4_DeadLock\obj\Debug\net5.0\ref\4_DeadLock.dll
+C:\Users\Ghada\source\repos\MuliThreading\4_DeadLock\obj\Debug\net5.0\4_DeadLock.pdb
+C:\Users\Ghada\source\repos\MuliThreading\4_DeadLock\obj\Debug\net5.0\4_DeadLock.genruntimeconfig.cache

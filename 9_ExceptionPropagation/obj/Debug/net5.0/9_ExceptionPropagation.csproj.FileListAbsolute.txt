@@ -1,0 +1,16 @@
+C:\Users\Ghada\source\repos\MuliThreading\9_ExceptionPropagation\bin\Debug\net5.0\9_ExceptionPropagation.exe
+C:\Users\Ghada\source\repos\MuliThreading\9_ExceptionPropagation\bin\Debug\net5.0\9_ExceptionPropagation.deps.json
+C:\Users\Ghada\source\repos\MuliThreading\9_ExceptionPropagation\bin\Debug\net5.0\9_ExceptionPropagation.runtimeconfig.json
+C:\Users\Ghada\source\repos\MuliThreading\9_ExceptionPropagation\bin\Debug\net5.0\9_ExceptionPropagation.runtimeconfig.dev.json
+C:\Users\Ghada\source\repos\MuliThreading\9_ExceptionPropagation\bin\Debug\net5.0\9_ExceptionPropagation.dll
+C:\Users\Ghada\source\repos\MuliThreading\9_ExceptionPropagation\bin\Debug\net5.0\ref\9_ExceptionPropagation.dll
+C:\Users\Ghada\source\repos\MuliThreading\9_ExceptionPropagation\bin\Debug\net5.0\9_ExceptionPropagation.pdb
+C:\Users\Ghada\source\repos\MuliThreading\9_ExceptionPropagation\obj\Debug\net5.0\9_ExceptionPropagation.csproj.AssemblyReference.cache
+C:\Users\Ghada\source\repos\MuliThreading\9_ExceptionPropagation\obj\Debug\net5.0\9_ExceptionPropagation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghada\source\repos\MuliThreading\9_ExceptionPropagation\obj\Debug\net5.0\9_ExceptionPropagation.AssemblyInfoInputs.cache
+C:\Users\Ghada\source\repos\MuliThreading\9_ExceptionPropagation\obj\Debug\net5.0\9_ExceptionPropagation.AssemblyInfo.cs
+C:\Users\Ghada\source\repos\MuliThreading\9_ExceptionPropagation\obj\Debug\net5.0\9_ExceptionPropagation.csproj.CoreCompileInputs.cache
+C:\Users\Ghada\source\repos\MuliThreading\9_ExceptionPropagation\obj\Debug\net5.0\9_ExceptionPropagation.dll
+C:\Users\Ghada\source\repos\MuliThreading\9_ExceptionPropagation\obj\Debug\net5.0\ref\9_ExceptionPropagation.dll
+C:\Users\Ghada\source\repos\MuliThreading\9_ExceptionPropagation\obj\Debug\net5.0\9_ExceptionPropagation.pdb
+C:\Users\Ghada\source\repos\MuliThreading\9_ExceptionPropagation\obj\Debug\net5.0\9_ExceptionPropagation.genruntimeconfig.cache

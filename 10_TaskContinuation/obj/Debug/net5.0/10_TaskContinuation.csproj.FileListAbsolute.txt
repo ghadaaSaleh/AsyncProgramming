@@ -1,0 +1,16 @@
+C:\Users\Ghada\source\repos\MuliThreading\10_TaskContinuation\bin\Debug\net5.0\10_TaskContinuation.exe
+C:\Users\Ghada\source\repos\MuliThreading\10_TaskContinuation\bin\Debug\net5.0\10_TaskContinuation.deps.json
+C:\Users\Ghada\source\repos\MuliThreading\10_TaskContinuation\bin\Debug\net5.0\10_TaskContinuation.runtimeconfig.json
+C:\Users\Ghada\source\repos\MuliThreading\10_TaskContinuation\bin\Debug\net5.0\10_TaskContinuation.runtimeconfig.dev.json
+C:\Users\Ghada\source\repos\MuliThreading\10_TaskContinuation\bin\Debug\net5.0\10_TaskContinuation.dll
+C:\Users\Ghada\source\repos\MuliThreading\10_TaskContinuation\bin\Debug\net5.0\ref\10_TaskContinuation.dll
+C:\Users\Ghada\source\repos\MuliThreading\10_TaskContinuation\bin\Debug\net5.0\10_TaskContinuation.pdb
+C:\Users\Ghada\source\repos\MuliThreading\10_TaskContinuation\obj\Debug\net5.0\10_TaskContinuation.csproj.AssemblyReference.cache
+C:\Users\Ghada\source\repos\MuliThreading\10_TaskContinuation\obj\Debug\net5.0\10_TaskContinuation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghada\source\repos\MuliThreading\10_TaskContinuation\obj\Debug\net5.0\10_TaskContinuation.AssemblyInfoInputs.cache
+C:\Users\Ghada\source\repos\MuliThreading\10_TaskContinuation\obj\Debug\net5.0\10_TaskContinuation.AssemblyInfo.cs
+C:\Users\Ghada\source\repos\MuliThreading\10_TaskContinuation\obj\Debug\net5.0\10_TaskContinuation.csproj.CoreCompileInputs.cache
+C:\Users\Ghada\source\repos\MuliThreading\10_TaskContinuation\obj\Debug\net5.0\10_TaskContinuation.dll
+C:\Users\Ghada\source\repos\MuliThreading\10_TaskContinuation\obj\Debug\net5.0\ref\10_TaskContinuation.dll
+C:\Users\Ghada\source\repos\MuliThreading\10_TaskContinuation\obj\Debug\net5.0\10_TaskContinuation.pdb
+C:\Users\Ghada\source\repos\MuliThreading\10_TaskContinuation\obj\Debug\net5.0\10_TaskContinuation.genruntimeconfig.cache

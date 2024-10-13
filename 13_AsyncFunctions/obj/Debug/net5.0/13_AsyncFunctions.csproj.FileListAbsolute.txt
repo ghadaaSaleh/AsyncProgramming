@@ -1,0 +1,16 @@
+C:\Users\Ghada\source\repos\MuliThreading\13_AsyncFunctions\bin\Debug\net5.0\13_AsyncFunctions.exe
+C:\Users\Ghada\source\repos\MuliThreading\13_AsyncFunctions\bin\Debug\net5.0\13_AsyncFunctions.deps.json
+C:\Users\Ghada\source\repos\MuliThreading\13_AsyncFunctions\bin\Debug\net5.0\13_AsyncFunctions.runtimeconfig.json
+C:\Users\Ghada\source\repos\MuliThreading\13_AsyncFunctions\bin\Debug\net5.0\13_AsyncFunctions.runtimeconfig.dev.json
+C:\Users\Ghada\source\repos\MuliThreading\13_AsyncFunctions\bin\Debug\net5.0\13_AsyncFunctions.dll
+C:\Users\Ghada\source\repos\MuliThreading\13_AsyncFunctions\bin\Debug\net5.0\ref\13_AsyncFunctions.dll
+C:\Users\Ghada\source\repos\MuliThreading\13_AsyncFunctions\bin\Debug\net5.0\13_AsyncFunctions.pdb
+C:\Users\Ghada\source\repos\MuliThreading\13_AsyncFunctions\obj\Debug\net5.0\13_AsyncFunctions.csproj.AssemblyReference.cache
+C:\Users\Ghada\source\repos\MuliThreading\13_AsyncFunctions\obj\Debug\net5.0\13_AsyncFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghada\source\repos\MuliThreading\13_AsyncFunctions\obj\Debug\net5.0\13_AsyncFunctions.AssemblyInfoInputs.cache
+C:\Users\Ghada\source\repos\MuliThreading\13_AsyncFunctions\obj\Debug\net5.0\13_AsyncFunctions.AssemblyInfo.cs
+C:\Users\Ghada\source\repos\MuliThreading\13_AsyncFunctions\obj\Debug\net5.0\13_AsyncFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Ghada\source\repos\MuliThreading\13_AsyncFunctions\obj\Debug\net5.0\13_AsyncFunctions.dll
+C:\Users\Ghada\source\repos\MuliThreading\13_AsyncFunctions\obj\Debug\net5.0\ref\13_AsyncFunctions.dll
+C:\Users\Ghada\source\repos\MuliThreading\13_AsyncFunctions\obj\Debug\net5.0\13_AsyncFunctions.pdb
+C:\Users\Ghada\source\repos\MuliThreading\13_AsyncFunctions\obj\Debug\net5.0\13_AsyncFunctions.genruntimeconfig.cache
