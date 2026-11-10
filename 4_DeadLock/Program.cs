@@ -8,6 +8,7 @@ namespace _4_DeadLock
         static void Main(string[] args)
         {
 
+
             var wallet1 = new Wallet(1, "Issam", 100);
             var wallet2 = new Wallet(2, "Reem", 50);
             Console.WriteLine("\n Before Transaction");
