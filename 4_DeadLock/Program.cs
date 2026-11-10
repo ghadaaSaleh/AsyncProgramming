@@ -5,6 +5,10 @@ namespace _4_DeadLock
 {
     class Program
     {
+		public decimal CalculateDiscount(decimal price)
+    {
+        return price * 0.5m;
+    }
         static void Main(string[] args)
         {
             var wallet1 = new Wallet(1, "Issam", 100);
